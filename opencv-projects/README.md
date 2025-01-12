@@ -1,5 +1,7 @@
 
-# Project Write-Ups
+# Projects Write-Ups
+
+[Resource Video: Click here](https://www.youtube.com/watch?v=01sAkU_NvOY)
 
 ## 1. AI Personal Trainer
 **Description:**  
